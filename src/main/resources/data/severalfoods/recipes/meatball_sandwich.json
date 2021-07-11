@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B",
+    "M",
+    "U"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:bread"
+    },
+    "M": {
+      "item": "severalfoods:cooked_meatball"
+    },
+    "U": {
+      "item": "severalfoods:upside_down_bread"
+    }
+  },
+  "result":{
+    "item": "severalfoods:meatball_sandwich"
+  }
+}

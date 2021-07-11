@@ -1,5 +1,5 @@
 {
-  "type": "minecraft:smoker",
+  "type": "minecraft:smoking",
   "ingredient": {
     "item": "severalfoods:raw_meatball"
   },

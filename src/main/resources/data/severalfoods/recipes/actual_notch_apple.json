@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DGD",
+    "DDD"
+  ],
+  "key":{
+    "D":{
+      "item": "minecraft:diamond"
+    },
+    "G": {
+      "item": "severalfoods:emerald_apple"
+    }
+  },
+  "result": {
+    "item": "severalfoods:actual_notch_apple"
+  }
+}
